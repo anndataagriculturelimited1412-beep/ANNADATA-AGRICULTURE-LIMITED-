@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Annadata Agriculture Limited</title>
+
+<style>
+
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:green;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#333;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+font-size:18px;
+}
+
+section{
+padding:40px;
+}
+
+.hero{
+background:url('https://images.unsplash.com/photo-1500382017468-9049fed747ef');
+background-size:cover;
+color:white;
+text-align:center;
+padding:120px;
+}
+
+.services{
+display:flex;
+gap:20px;
+}
+
+.box{
+background:white;
+padding:20px;
+flex:1;
+border-radius:8px;
+}
+
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>Annadata Agriculture Limited</h1>
+<p>Smart Farming • Prosperous Farmers</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Services</a>
+<a href="#">Products</a>
+<a href="#">Contact</a>
+</nav>
+
+<div class="hero">
+<h1>Welcome to Annadata Agriculture</h1>
+<p>Modern Solutions for Farmers</p>
+</div>
+
+<section>
+
+<h2>About Company</h2>
+
+<p>
+Annadata Agriculture Limited is dedicated to helping farmers with
+modern farming technology, quality seeds, fertilizers and agricultural services.
+</p>
+
+</section>
+
+<section>
+
+<h2>Our Services</h2>
+
+<div class="services">
+
+<div class="box">
+<h3>Quality Seeds</h3>
+<p>High quality hybrid seeds for better crop yield.</p>
+</div>
+
+<div class="box">
+<h3>Fertilizers</h3>
+<p>Organic and chemical fertilizers for healthy farming.</p>
+</div>
+
+<div class="box">
+<h3>Farm Advisory</h3>
+<p>Expert advice to improve productivity.</p>
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>Contact Us</h2>
+
+<p>Email: info@annadataagriculture.com</p>
+<p>Phone: +91 XXXXXXXX</p>
+
+</section>
+
+<footer>
+
+<p>© 2026 Annadata Agriculture Limited</p>
+
+</footer>
+
+</body>
+</html>
